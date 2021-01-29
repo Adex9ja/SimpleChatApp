@@ -7,7 +7,7 @@ public class MockResponseFileReader {
 
     public MockResponseFileReader(String path) {
         InputStreamReader inputStreamReader = new InputStreamReader(getClass().getResourceAsStream(path));
-        inputStreamReader.rea
-        inputStreamReader.close();
+//        inputStreamReader.rea
+//        inputStreamReader.close();
     }
 }

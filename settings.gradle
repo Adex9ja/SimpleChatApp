@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='HotSpotReporter'
+rootProject.name='ChatApp'
